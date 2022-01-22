@@ -1,6 +1,6 @@
 # password-generator
 
-## Discription
+## Description
 A user can create a random password based one the criterias they have set from the alert prompts.
 
 ## User Story
