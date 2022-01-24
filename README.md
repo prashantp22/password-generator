@@ -34,4 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 ## link
 https://prashantp22.github.io/password-generator/
 
+## ScreenShot
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/96153408/150720283-1eb4adb0-9751-4528-9c44-107fec1e81fd.png">
+
 
